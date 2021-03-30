@@ -1,1 +1,1 @@
-This is a hackerrank 30 day of code challenges using python 2
+This is a hackerrank challenge solutions
